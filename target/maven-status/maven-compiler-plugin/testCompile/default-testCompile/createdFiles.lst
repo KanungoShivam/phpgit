@@ -1,0 +1,9 @@
+PHPTravelsUtilities\ExcelUtility.class
+PHPTravelsUtilities\ExtentReportManager.class
+PHPTravelsTest\BaseClass.class
+PHPTravelsTest\LogingDataDrivenTest.class
+PHPTravelsPageObject\LogingPage.class
+PHPTravelsTest\LoginTest.class
+PHPTravelsUtilities\DataProviders.class
+PHPTravelsPageObject\BasePage.class
+PHPTravelsPageObject\LogoutOage.class
